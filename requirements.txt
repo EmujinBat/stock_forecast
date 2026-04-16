@@ -1,0 +1,10 @@
+yfinance 
+pymongo 
+fredapi 
+newsapi-python 
+python-dotenv 
+pandas 
+scikit-learn 
+seaborn 
+matplotlib 
+nbformat
