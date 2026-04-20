@@ -8,7 +8,7 @@ This project predicts whether each of the eleven S&P 500 sector ETFs will close 
 
 ### Name: Emujin Batzorig
 ### NetID: kfm8nx
-### DOI: *to be added after Zenodo release*
+### DOI: [10.5281/zenodo.19671697](https://zenodo.org/records/19671697) 
 ### Press Release: [Can a Machine Tell You Whether the Stock Market Will Go Up Tomorrow?](./press_release.md)
 ### Pipeline: [pipeline.ipynb](./pipeline.ipynb) | [pipeline.md](./pipeline.md)
 ### License: [MIT](./LICENSE)
@@ -19,7 +19,7 @@ This project predicts whether each of the eleven S&P 500 sector ETFs will close 
 |---|---|
 | Name | Emujin Batzorig |
 | NetID | kfm8nx |
-| DOI | *to be added* |
+| DOI | [10.5281/zenodo.19671697](https://zenodo.org/records/19671697) |
 | Press Release | [Can a Machine Tell You Whether the Stock Market Will Go Up Tomorrow?](./press_release.md) |
 | Data | MongoDB Atlas (credentials submitted privately via Canvas) |
 | Pipeline | [pipeline.ipynb](./pipeline.ipynb) · [pipeline.md](./pipeline.md) |
